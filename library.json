@@ -1,0 +1,9 @@
+{
+    "name": "gsl-lite",
+    "build": {
+        "srcFilter": [
+            "+<include/>"
+        ],
+        "includeDir": "include"
+    }
+}
